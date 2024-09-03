@@ -1,0 +1,3 @@
+Running on Colab only 
+- Install PNNX
+- Main file - ckpt_path = f'convnext-tiny-llie.pth'
